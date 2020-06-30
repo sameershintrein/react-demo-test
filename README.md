@@ -1,2 +1,2 @@
-# react-demo-test
+# react-demo-class-subclass
 Created with CodeSandbox
